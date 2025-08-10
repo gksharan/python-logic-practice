@@ -17,4 +17,4 @@ target = 9
 result = two_sum(nums, target)
 
 # Print the result
-print("Indexes of numbers that add up to
+print("Indexes of numbers that add up to  target:", result)
